@@ -1,0 +1,41 @@
+.contentPost {
+	width: 80%;
+	height: 200px !important;
+}
+
+#status {
+	width: 20%;
+}
+
+.haft {
+	width: 30%;
+}
+
+.title {
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.komen {
+	font-size: 14px;
+}
+
+.geser {
+	margin-left: 55px;
+	margin-top: 5px;
+}
+
+
+.img-sm {
+    width: 30px;
+    height: 30px;
+}
+
+img{
+	width: 30px;
+    height: 30px;
+}
+
+.page_title{
+	display: inline-block;
+}
