@@ -27,7 +27,7 @@ public class PostController {
 	@Autowired
 	PostServiceImpl postServiceImpl;
 
-	@RequestMapping(path = "/addpost123", method = RequestMethod.GET)
+	@RequestMapping(path = "/addpost12345", method = RequestMethod.GET)
 	public String createpost(Model model, HttpSession session) {
 		User user = null;
 		user = (User) session.getAttribute("User");
